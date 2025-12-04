@@ -1,0 +1,3 @@
+Many people are familiar with the regular dragon curve. You start with a single line segment, then at each step make a copy of the curve, rotate it by 90 degrees, append it to the existing curve, and repeat. The result is this beautiful fractal pattern.
+
+But it turns out you can do this with different angles. For example, turning by 120 degrees creates this stretched pattern.
